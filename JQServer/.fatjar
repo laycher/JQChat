@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 16 14:40:52 GMT+08:00 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JQServer_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.jq.server.Server
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

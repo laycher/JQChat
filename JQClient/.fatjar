@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 16 14:45:00 GMT+08:00 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=JQClient.jar
+manifest.mergeall=true
+manifest.mainclass=com.jq.client.Client
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
